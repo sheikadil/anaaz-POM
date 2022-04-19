@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Apr 19 15:53:04 IST 2022","Tue Apr 19 15:53:09 IST 2022","4596","","Sign Up","","Sign Up","TC003 To Verify that Sign Up Fails","TC003 To Verify that Sign Up Fails",""
+"passed","Tue Apr 19 15:54:09 IST 2022","Tue Apr 19 15:54:45 IST 2022","35569","","Sign Up","","Sign Up","TC007 Verify that login fails","TC007 Verify that login fails",""
+"passed","Tue Apr 19 15:53:14 IST 2022","Tue Apr 19 15:53:29 IST 2022","15441","","Sign Up","","Sign Up","TC005 Verify that user can sign in successfully","TC005 Verify that user can sign in successfully",""
+"passed","Tue Apr 19 15:52:59 IST 2022","Tue Apr 19 15:53:04 IST 2022","5062","","Sign Up","","Sign Up","TC002 To Verify that Sign Up Fails","TC002 To Verify that Sign Up Fails",""
+"passed","Tue Apr 19 15:53:29 IST 2022","Tue Apr 19 15:54:09 IST 2022","39858","","Sign Up","","Sign Up","TC006 Verify that login fails","TC006 Verify that login fails",""
+"passed","Tue Apr 19 15:53:09 IST 2022","Tue Apr 19 15:53:14 IST 2022","4692","","Sign Up","","Sign Up","TC004 To Verify that Sign Up Fails","TC004 To Verify that Sign Up Fails",""
+"passed","Tue Apr 19 15:52:50 IST 2022","Tue Apr 19 15:52:59 IST 2022","9386","","Sign Up","","Sign Up","TC001 Verify that user can sign up successfully","TC001 Verify that user can sign up successfully",""

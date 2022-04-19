@@ -1,0 +1,146 @@
+{
+  "uid" : "bf213ee84404278a",
+  "name" : "TC001 Verify that user can sign up successfully",
+  "fullName" : "Sign Up.TC001 Verify that user can sign up successfully",
+  "historyId" : "21a6a0e2ab917e4821c68d09232b9dfc",
+  "time" : {
+    "start" : 1650363770468,
+    "stop" : 1650363779854,
+    "duration" : 9386
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 9,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6bebd0dfc017a0ee",
+      "name" : "Screenshot",
+      "source" : "6bebd0dfc017a0ee.png",
+      "type" : "image/png",
+      "size" : 9090
+    }, {
+      "uid" : "3e85f429d3138f4e",
+      "name" : "Screenshot",
+      "source" : "3e85f429d3138f4e.png",
+      "type" : "image/png",
+      "size" : 263759
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Sign Up"
+  }, {
+    "name" : "testClass",
+    "value" : "Sign Up"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC001 Verify that user can sign up successfully"
+  }, {
+    "name" : "package",
+    "value" : "Sign Up"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f38c62fa927ccad5",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[text()='Sign out'])",
+      "time" : {
+        "start" : 1650363442260,
+        "stop" : 1650363479823,
+        "duration" : 37563
+      }
+    }, {
+      "uid" : "4d174b2784584b69",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[text()='Sign out'])",
+      "time" : {
+        "start" : 1650362762032,
+        "stop" : 1650362801798,
+        "duration" : 39766
+      }
+    }, {
+      "uid" : "dc7605468aa2cd8e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650309017678,
+        "stop" : 1650309028928,
+        "duration" : 11250
+      }
+    }, {
+      "uid" : "a3da114fd69781cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650308096451,
+        "stop" : 1650308108152,
+        "duration" : 11701
+      }
+    }, {
+      "uid" : "9ba473c1657dd3bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650307889392,
+        "stop" : 1650307899763,
+        "duration" : 10371
+      }
+    }, {
+      "uid" : "17b5e710efb64317",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650307714560,
+        "stop" : 1650307723955,
+        "duration" : 9395
+      }
+    }, {
+      "uid" : "a03a00cf57c042a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650306135705,
+        "stop" : 1650306147387,
+        "duration" : 11682
+      }
+    }, {
+      "uid" : "5bc075e8414ef921",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650306078026,
+        "stop" : 1650306091168,
+        "duration" : 13142
+      }
+    }, {
+      "uid" : "3e8030553dfc0f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650305860775,
+        "stop" : 1650305873699,
+        "duration" : 12924
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bf213ee84404278a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,20 @@
+{
+    "signUp": {
+
+        "name": "Tester",
+        "email": "ad004test@test.com",
+        "password": "test1234",
+        "invalid_email": "Error: The email address is badly formatted.",
+        "invalid_password": "Error: The email address is badly formatted."
+    },
+    "login": {
+        "email": "ad004test@test.com",
+        "emailInvalid": "1313adda@kfkf.com",
+        "password": "test1234",
+        "passwordInvalid": "8509328@40938094830",
+        "welcome_message": "Welcome Tester",
+        "invalid_password": "Error: The password is invalid or the user does not have a password.",
+        "invalid_email": "Error: The email address is badly formatted."
+
+    }
+}

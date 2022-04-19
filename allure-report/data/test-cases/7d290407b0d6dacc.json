@@ -1,0 +1,70 @@
+{
+  "uid" : "7d290407b0d6dacc",
+  "name" : "TC003 To Verify that Sign Up Fails",
+  "fullName" : "Sign Up.TC003 To Verify that Sign Up Fails",
+  "historyId" : "7f695c5b9031b1d483056c18bc783ba2",
+  "time" : {
+    "start" : 1650307727816,
+    "stop" : 1650307732048,
+    "duration" : 4232
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e472a8a048fc8fbb",
+      "name" : "Screenshot",
+      "source" : "e472a8a048fc8fbb.png",
+      "type" : "image/png",
+      "size" : 271138
+    }, {
+      "uid" : "f053dda0dd6efbac",
+      "name" : "Screenshot",
+      "source" : "f053dda0dd6efbac.png",
+      "type" : "image/png",
+      "size" : 280536
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Sign Up"
+  }, {
+    "name" : "testClass",
+    "value" : "Sign Up"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC003 To Verify that Sign Up Fails"
+  }, {
+    "name" : "package",
+    "value" : "Sign Up"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7d290407b0d6dacc.json",
+  "parameterValues" : [ ]
+}

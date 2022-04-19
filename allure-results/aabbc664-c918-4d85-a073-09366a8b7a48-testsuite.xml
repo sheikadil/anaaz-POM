@@ -1,0 +1,51 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650306135549' stop='1650306160451'>
+    <name>Sign Up</name>
+    <title>Sign Up</title>
+    <test-cases>
+        <test-case start='1650306135705' status='passed' stop='1650306147387'>
+            <name>TC001 Verify that user can sign up successfully</name>
+            <title>TC001 Verify that user can sign up successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d19872f9-781b-43a3-ba66-2cdec64b89bb-attachment.png' type='image/png' size='9090'/>
+                <attachment title='Screenshot' source='4dc76a86-94ba-4c5d-8457-9154dd1493ef-attachment.png' type='image/png' size='176509'/>
+            </attachments>
+        </test-case>
+        <test-case start='1650306147387' status='passed' stop='1650306151421'>
+            <name>TC002 To Verify that Sign Up Fails</name>
+            <title>TC002 To Verify that Sign Up Fails</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='6337a88a-1d0f-4116-a8cd-90ab924d440c-attachment.png' type='image/png' size='178394'/>
+                <attachment title='Screenshot' source='44c56eca-1e21-4efd-82d7-a8028b84b272-attachment.png' type='image/png' size='307148'/>
+            </attachments>
+        </test-case>
+        <test-case start='1650306151421' status='passed' stop='1650306156027'>
+            <name>TC003 To Verify that Sign Up Fails</name>
+            <title>TC003 To Verify that Sign Up Fails</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='91b1783e-1b26-4929-a08b-dd29abe21f68-attachment.png' type='image/png' size='315021'/>
+                <attachment title='Screenshot' source='d449026e-9e5d-45eb-b026-2a927dcc34bc-attachment.png' type='image/png' size='315978'/>
+            </attachments>
+        </test-case>
+        <test-case start='1650306156027' status='passed' stop='1650306160446'>
+            <name>TC004 To Verify that Sign Up Fails</name>
+            <title>TC004 To Verify that Sign Up Fails</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='0e4d8be3-e560-42e9-8228-2e5b25c79d3f-attachment.png' type='image/png' size='315978'/>
+                <attachment title='Screenshot' source='010cf268-1b9d-4c45-a0b0-80b583183062-attachment.png' type='image/png' size='313784'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

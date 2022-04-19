@@ -1,0 +1,75 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650363442023' stop='1650363493850'>
+    <name>Sign Up</name>
+    <title>Sign Up</title>
+    <test-cases>
+        <test-case start='1650363442260' status='failed' stop='1650363479823'>
+            <name>TC001 Verify that user can sign up successfully</name>
+            <title>TC001 Verify that user can sign up successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='95877a00-9108-4ab5-8b48-a3f03ea0c382-attachment.png' type='image/png' size='9090'/>
+                <attachment title='Screenshot' source='b5e1c6fc-a2b2-4a17-9a72-63623bafa3ec-attachment.png' type='image/png' size='218931'/>
+            </attachments>
+            <failure>
+                <message>Failed: No element found using locator: By(xpath, //a[text()='Sign out'])</message>
+                <stack-trace>NoSuchElementError: No element found using locator: By(xpath, //a[text()='Sign out'])
+                    at G:\anaaz-POM\node_modules\protractor\built\element.js:814:27
+                    at processTicksAndRejections (internal/process/task_queues.js:95:5)Error: 
+                    at ElementArrayFinder.applyAction_ (G:\anaaz-POM\node_modules\protractor\built\element.js:459:27)
+                    at ElementArrayFinder.&lt;computed> [as isDisplayed] (G:\anaaz-POM\node_modules\protractor\built\element.js:91:29)
+                    at ElementFinder.&lt;computed> [as isDisplayed] (G:\anaaz-POM\node_modules\protractor\built\element.js:831:22)
+                    at Header.&lt;anonymous> (G:\anaaz-POM\letbase\base\ProtractorBase.ts:47:30)
+                    at Generator.next (&lt;anonymous>)
+                    at fulfilled (G:\anaaz-POM\letbase\base\ProtractorBase.ts:5:58)
+                    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+                From asynchronous test: 
+                Error: 
+                    at Suite.&lt;anonymous> (G:\anaaz-POM\test -ts\signup.spec.ts:26:5)
+                    at addSpecsToSuite (G:\anaaz-POM\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1107:25)
+                    at Env.describe (G:\anaaz-POM\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1074:7)
+                    at describe (G:\anaaz-POM\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4399:18)
+                    at Object.&lt;anonymous> (G:\anaaz-POM\test -ts\signup.spec.ts:14:1)
+                    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+                    at Module.m._compile (G:\anaaz-POM\node_modules\ts-node\src\index.ts:1455:23)
+                    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+                    at Object.require.extensions.&lt;computed> [as .ts] (G:\anaaz-POM\node_modules\ts-node\src\index.ts:1458:12)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1650363479824' status='passed' stop='1650363484802'>
+            <name>TC002 To Verify that Sign Up Fails</name>
+            <title>TC002 To Verify that Sign Up Fails</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b00ec373-756f-49ea-a5dc-cf0d9cfc5ce6-attachment.png' type='image/png' size='218931'/>
+                <attachment title='Screenshot' source='f2781e0a-823a-4bbd-bebd-5520f6c572e6-attachment.png' type='image/png' size='190537'/>
+            </attachments>
+        </test-case>
+        <test-case start='1650363484802' status='passed' stop='1650363489341'>
+            <name>TC003 To Verify that Sign Up Fails</name>
+            <title>TC003 To Verify that Sign Up Fails</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='5e4517ed-3bd1-40cc-aded-d29fc74253c0-attachment.png' type='image/png' size='192670'/>
+                <attachment title='Screenshot' source='84be150f-9967-494b-ad20-07bce02da5c7-attachment.png' type='image/png' size='193599'/>
+            </attachments>
+        </test-case>
+        <test-case start='1650363489341' status='passed' stop='1650363493847'>
+            <name>TC004 To Verify that Sign Up Fails</name>
+            <title>TC004 To Verify that Sign Up Fails</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='c70cb925-865f-4284-aaf4-66e6be06e823-attachment.png' type='image/png' size='193599'/>
+                <attachment title='Screenshot' source='d4a1c1f1-34b3-452e-b9b9-f26bf532c3de-attachment.png' type='image/png' size='191458'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

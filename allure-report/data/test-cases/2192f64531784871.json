@@ -1,0 +1,74 @@
+{
+  "uid" : "2192f64531784871",
+  "name" : "TC006 Verify that login fails",
+  "fullName" : "Sign Up.TC006 Verify that login fails",
+  "historyId" : "3c70971eb2fcc083c3ea03a61868793d",
+  "time" : {
+    "start" : 1650307927351,
+    "stop" : 1650307935038,
+    "duration" : 7687
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'Error: The password is invalid or the user does not have a password.' to be 'Error: The email address is badly formatted.'.",
+  "statusTrace" : "Error: Failed expectation\n                    at Common.<anonymous> (G:\\anaaz-POM\\letbase\\base\\ProtractorBase.ts:42:35)\n                    at Generator.next (<anonymous>)\n                    at fulfilled (G:\\anaaz-POM\\letbase\\base\\ProtractorBase.ts:5:58)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected 'Error: The password is invalid or the user does not have a password.' to be 'Error: The email address is badly formatted.'.",
+    "statusTrace" : "Error: Failed expectation\n                    at Common.<anonymous> (G:\\anaaz-POM\\letbase\\base\\ProtractorBase.ts:42:35)\n                    at Generator.next (<anonymous>)\n                    at fulfilled (G:\\anaaz-POM\\letbase\\base\\ProtractorBase.ts:5:58)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b525835cd4548ccb",
+      "name" : "Screenshot",
+      "source" : "b525835cd4548ccb.png",
+      "type" : "image/png",
+      "size" : 242120
+    }, {
+      "uid" : "6580369495cad59c",
+      "name" : "Screenshot",
+      "source" : "6580369495cad59c.png",
+      "type" : "image/png",
+      "size" : 297978
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Sign Up"
+  }, {
+    "name" : "testClass",
+    "value" : "Sign Up"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC006 Verify that login fails"
+  }, {
+    "name" : "package",
+    "value" : "Sign Up"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2192f64531784871.json",
+  "parameterValues" : [ ]
+}

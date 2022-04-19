@@ -1,0 +1,131 @@
+{
+  "uid" : "7a1199fa5846cb52",
+  "name" : "TC006 Verify that login fails",
+  "fullName" : "Sign Up.TC006 Verify that login fails",
+  "historyId" : "3c70971eb2fcc083c3ea03a61868793d",
+  "time" : {
+    "start" : 1650363809745,
+    "stop" : 1650363849603,
+    "duration" : 39858
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 7,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "195571db0414cb5",
+      "name" : "Screenshot",
+      "source" : "195571db0414cb5.png",
+      "type" : "image/png",
+      "size" : 269264
+    }, {
+      "uid" : "a7d7902fd59077d8",
+      "name" : "Screenshot",
+      "source" : "a7d7902fd59077d8.png",
+      "type" : "image/png",
+      "size" : 325381
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Sign Up"
+  }, {
+    "name" : "testClass",
+    "value" : "Sign Up"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC006 Verify that login fails"
+  }, {
+    "name" : "package",
+    "value" : "Sign Up"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "77fd66c74dbb31df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650363509104,
+        "stop" : 1650363549660,
+        "duration" : 40556
+      }
+    }, {
+      "uid" : "9fc40e5ab287b97a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650362832252,
+        "stop" : 1650362842563,
+        "duration" : 10311
+      }
+    }, {
+      "uid" : "558b65aee0937f8c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650309088957,
+        "stop" : 1650309129397,
+        "duration" : 40440
+      }
+    }, {
+      "uid" : "d41f880b614978bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650308137653,
+        "stop" : 1650308175088,
+        "duration" : 37435
+      }
+    }, {
+      "uid" : "2192f64531784871",
+      "status" : "failed",
+      "statusDetails" : "Expected 'Error: The password is invalid or the user does not have a password.' to be 'Error: The email address is badly formatted.'.",
+      "time" : {
+        "start" : 1650307927351,
+        "stop" : 1650307935038,
+        "duration" : 7687
+      }
+    }, {
+      "uid" : "9661920df8d32146",
+      "status" : "failed",
+      "statusDetails" : "Expected 'Error: The password is invalid or the user does not have a password.' to be 'Error: The email address is badly formatted.'.",
+      "time" : {
+        "start" : 1650307751813,
+        "stop" : 1650307788774,
+        "duration" : 36961
+      }
+    }, {
+      "uid" : "8e45b52e1ed77b51",
+      "status" : "failed",
+      "statusDetails" : "Expected 'Error: The password is invalid or the user does not have a password.' to be 'Error: The email address is badly formatted.'.",
+      "time" : {
+        "start" : 1650306175555,
+        "stop" : 1650306240840,
+        "duration" : 65285
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7a1199fa5846cb52.json",
+  "parameterValues" : [ ]
+}

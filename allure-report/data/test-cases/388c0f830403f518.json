@@ -1,0 +1,144 @@
+{
+  "uid" : "388c0f830403f518",
+  "name" : "TC002 To Verify that Sign Up Fails",
+  "fullName" : "Sign Up.TC002 To Verify that Sign Up Fails",
+  "historyId" : "519dc45032f67dd7d87a3ba56c852be0",
+  "time" : {
+    "start" : 1650363779854,
+    "stop" : 1650363784916,
+    "duration" : 5062
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 9,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6bc6a3ddd9abb6e4",
+      "name" : "Screenshot",
+      "source" : "6bc6a3ddd9abb6e4.png",
+      "type" : "image/png",
+      "size" : 264802
+    }, {
+      "uid" : "c1040d76f870bcbd",
+      "name" : "Screenshot",
+      "source" : "c1040d76f870bcbd.png",
+      "type" : "image/png",
+      "size" : 278248
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Sign Up"
+  }, {
+    "name" : "testClass",
+    "value" : "Sign Up"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC002 To Verify that Sign Up Fails"
+  }, {
+    "name" : "package",
+    "value" : "Sign Up"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1546ce8194c3d150",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650363479824,
+        "stop" : 1650363484802,
+        "duration" : 4978
+      }
+    }, {
+      "uid" : "9eef29447b2e90de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650362801799,
+        "stop" : 1650362807277,
+        "duration" : 5478
+      }
+    }, {
+      "uid" : "df6946a44ed0618e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650309028928,
+        "stop" : 1650309032570,
+        "duration" : 3642
+      }
+    }, {
+      "uid" : "386029d4c3c5702e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650308108152,
+        "stop" : 1650308112470,
+        "duration" : 4318
+      }
+    }, {
+      "uid" : "ead7ec2c1881d082",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650307899763,
+        "stop" : 1650307904373,
+        "duration" : 4610
+      }
+    }, {
+      "uid" : "d846d8ec609c24bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650307723955,
+        "stop" : 1650307727816,
+        "duration" : 3861
+      }
+    }, {
+      "uid" : "b6c6dde5c1127bbf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650306147387,
+        "stop" : 1650306151421,
+        "duration" : 4034
+      }
+    }, {
+      "uid" : "5debc992f518c857",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650306091168,
+        "stop" : 1650306094365,
+        "duration" : 3197
+      }
+    }, {
+      "uid" : "4a5c090bde595367",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650305873699,
+        "stop" : 1650305876901,
+        "duration" : 3202
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "388c0f830403f518.json",
+  "parameterValues" : [ ]
+}

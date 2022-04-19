@@ -1,0 +1,40 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650363493869' stop='1650363585535'>
+    <name>Sign Up</name>
+    <title>Sign Up</title>
+    <test-cases>
+        <test-case start='1650363493926' status='passed' stop='1650363509104'>
+            <name>TC005 Verify that user can sign in successfully</name>
+            <title>TC005 Verify that user can sign in successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a6153625-8b21-4550-a8bf-029aaa9408cd-attachment.png' type='image/png' size='191458'/>
+                <attachment title='Screenshot' source='31831a38-1e9e-46c4-9b3a-3eb5450a9134-attachment.png' type='image/png' size='213607'/>
+            </attachments>
+        </test-case>
+        <test-case start='1650363509104' status='passed' stop='1650363549660'>
+            <name>TC006 Verify that login fails</name>
+            <title>TC006 Verify that login fails</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='c98cf005-d4a8-4a19-b8dd-c1cef301130d-attachment.png' type='image/png' size='207961'/>
+                <attachment title='Screenshot' source='2b8ae8e2-00f1-4f9e-a956-e16d8ea9426d-attachment.png' type='image/png' size='263587'/>
+            </attachments>
+        </test-case>
+        <test-case start='1650363549660' status='passed' stop='1650363585533'>
+            <name>TC007 Verify that login fails</name>
+            <title>TC007 Verify that login fails</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='e28000eb-d9ff-4edf-bb6d-f33062f15581-attachment.png' type='image/png' size='264148'/>
+                <attachment title='Screenshot' source='193c2a60-7e6e-468f-befa-e6cb33c42485-attachment.png' type='image/png' size='246500'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

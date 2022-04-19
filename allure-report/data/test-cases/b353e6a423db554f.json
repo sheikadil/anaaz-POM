@@ -1,0 +1,128 @@
+{
+  "uid" : "b353e6a423db554f",
+  "name" : "TC005 Verify that user can sign in successfully",
+  "fullName" : "Sign Up.TC005 Verify that user can sign in successfully",
+  "historyId" : "91a4aa29c05da9268989712d584ab9a3",
+  "time" : {
+    "start" : 1650363794303,
+    "stop" : 1650363809744,
+    "duration" : 15441
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 7,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b5a2923a2b55db16",
+      "name" : "Screenshot",
+      "source" : "b5a2923a2b55db16.png",
+      "type" : "image/png",
+      "size" : 278351
+    }, {
+      "uid" : "1bd52085020f1dfa",
+      "name" : "Screenshot",
+      "source" : "1bd52085020f1dfa.png",
+      "type" : "image/png",
+      "size" : 274834
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Sign Up"
+  }, {
+    "name" : "testClass",
+    "value" : "Sign Up"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC005 Verify that user can sign in successfully"
+  }, {
+    "name" : "package",
+    "value" : "Sign Up"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e70c53098040d3cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650363493926,
+        "stop" : 1650363509104,
+        "duration" : 15178
+      }
+    }, {
+      "uid" : "2c85452a65fdc796",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650362816935,
+        "stop" : 1650362832251,
+        "duration" : 15316
+      }
+    }, {
+      "uid" : "c351744068c0d902",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650309073961,
+        "stop" : 1650309088957,
+        "duration" : 14996
+      }
+    }, {
+      "uid" : "18fec776c7ac7e9d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650308123482,
+        "stop" : 1650308137653,
+        "duration" : 14171
+      }
+    }, {
+      "uid" : "49b2115396aaa9b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650307914273,
+        "stop" : 1650307927351,
+        "duration" : 13078
+      }
+    }, {
+      "uid" : "f139c1b4cd814f4c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650307738002,
+        "stop" : 1650307751812,
+        "duration" : 13810
+      }
+    }, {
+      "uid" : "c308c665e4995b37",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650306161809,
+        "stop" : 1650306175555,
+        "duration" : 13746
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b353e6a423db554f.json",
+  "parameterValues" : [ ]
+}

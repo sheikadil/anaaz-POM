@@ -1,0 +1,128 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Sign Up",
+    "children" : [ {
+      "name" : "TC001 Verify that user can sign up successfully",
+      "uid" : "bf213ee84404278a",
+      "parentUid" : "f5da6c4536e3ba8e4c0e742779996e14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650363770468,
+        "stop" : 1650363779854,
+        "duration" : 9386
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 9,
+      "retriesStatusChange" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "TC002 To Verify that Sign Up Fails",
+      "uid" : "388c0f830403f518",
+      "parentUid" : "f5da6c4536e3ba8e4c0e742779996e14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650363779854,
+        "stop" : 1650363784916,
+        "duration" : 5062
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 9,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "TC003 To Verify that Sign Up Fails",
+      "uid" : "6a4f56139cbf0670",
+      "parentUid" : "f5da6c4536e3ba8e4c0e742779996e14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650363784916,
+        "stop" : 1650363789512,
+        "duration" : 4596
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 9,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "TC004 To Verify that Sign Up Fails",
+      "uid" : "ecabced865a56c7b",
+      "parentUid" : "f5da6c4536e3ba8e4c0e742779996e14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650363789512,
+        "stop" : 1650363794204,
+        "duration" : 4692
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 9,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "TC005 Verify that user can sign in successfully",
+      "uid" : "b353e6a423db554f",
+      "parentUid" : "f5da6c4536e3ba8e4c0e742779996e14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650363794303,
+        "stop" : 1650363809744,
+        "duration" : 15441
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 7,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "TC006 Verify that login fails",
+      "uid" : "7a1199fa5846cb52",
+      "parentUid" : "f5da6c4536e3ba8e4c0e742779996e14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650363809745,
+        "stop" : 1650363849603,
+        "duration" : 39858
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 7,
+      "retriesStatusChange" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "TC007 Verify that login fails",
+      "uid" : "5e0bf4cf6d3daec4",
+      "parentUid" : "f5da6c4536e3ba8e4c0e742779996e14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650363849603,
+        "stop" : 1650363885172,
+        "duration" : 35569
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 7,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f5da6c4536e3ba8e4c0e742779996e14"
+  } ]
+}

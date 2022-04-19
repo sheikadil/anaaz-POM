@@ -1,0 +1,49 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650306160469' stop='1650306243269'>
+    <name>Sign Up</name>
+    <title>Sign Up</title>
+    <test-cases>
+        <test-case start='1650306161809' status='passed' stop='1650306175555'>
+            <name>TC005 Verify that user can sign in successfully</name>
+            <title>TC005 Verify that user can sign in successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='c2866735-21e2-4eed-8cc3-60d83a6bf0d5-attachment.png' type='image/png' size='112099'/>
+                <attachment title='Screenshot' source='50638d42-c128-4822-be68-155d1e8dbd6f-attachment.png' type='image/png' size='272568'/>
+            </attachments>
+        </test-case>
+        <test-case start='1650306175555' status='failed' stop='1650306240840'>
+            <name>TC006 Verify that login fails</name>
+            <title>TC006 Verify that login fails</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='1165d666-3673-489d-b6a6-29770af21b63-attachment.png' type='image/png' size='311060'/>
+                <attachment title='Screenshot' source='019c40e3-45e1-4e8b-bc8d-ba75328cbc2b-attachment.png' type='image/png' size='310971'/>
+            </attachments>
+            <failure>
+                <message>Expected 'Error: The password is invalid or the user does not have a password.' to be 'Error: The email address is badly formatted.'.</message>
+                <stack-trace>Error: Failed expectation
+                    at Common.&lt;anonymous> (G:\anaaz-POM\letbase\base\ProtractorBase.ts:42:35)
+                    at Generator.next (&lt;anonymous>)
+                    at fulfilled (G:\anaaz-POM\letbase\base\ProtractorBase.ts:5:58)
+                    at runMicrotasks (&lt;anonymous>)
+                    at processTicksAndRejections (internal/process/task_queues.js:95:5)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1650306240840' status='passed' stop='1650306243264'>
+            <name>TC007 Verify that login fails</name>
+            <title>TC007 Verify that login fails</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='3af89e55-3038-495d-ab52-5acec12dd87e-attachment.png' type='image/png' size='310971'/>
+                <attachment title='Screenshot' source='133b7bb7-7e69-4e72-9f9a-4a5db4e0e59f-attachment.png' type='image/png' size='315803'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

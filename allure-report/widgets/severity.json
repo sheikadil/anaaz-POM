@@ -1,0 +1,71 @@
+[ {
+  "uid" : "ecabced865a56c7b",
+  "name" : "TC004 To Verify that Sign Up Fails",
+  "time" : {
+    "start" : 1650363789512,
+    "stop" : 1650363794204,
+    "duration" : 4692
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a4f56139cbf0670",
+  "name" : "TC003 To Verify that Sign Up Fails",
+  "time" : {
+    "start" : 1650363784916,
+    "stop" : 1650363789512,
+    "duration" : 4596
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "388c0f830403f518",
+  "name" : "TC002 To Verify that Sign Up Fails",
+  "time" : {
+    "start" : 1650363779854,
+    "stop" : 1650363784916,
+    "duration" : 5062
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b353e6a423db554f",
+  "name" : "TC005 Verify that user can sign in successfully",
+  "time" : {
+    "start" : 1650363794303,
+    "stop" : 1650363809744,
+    "duration" : 15441
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bf213ee84404278a",
+  "name" : "TC001 Verify that user can sign up successfully",
+  "time" : {
+    "start" : 1650363770468,
+    "stop" : 1650363779854,
+    "duration" : 9386
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7a1199fa5846cb52",
+  "name" : "TC006 Verify that login fails",
+  "time" : {
+    "start" : 1650363809745,
+    "stop" : 1650363849603,
+    "duration" : 39858
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e0bf4cf6d3daec4",
+  "name" : "TC007 Verify that login fails",
+  "time" : {
+    "start" : 1650363849603,
+    "stop" : 1650363885172,
+    "duration" : 35569
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

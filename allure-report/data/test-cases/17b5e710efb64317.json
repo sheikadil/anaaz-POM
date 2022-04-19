@@ -1,0 +1,70 @@
+{
+  "uid" : "17b5e710efb64317",
+  "name" : "TC001 Verify that user can sign up successfully",
+  "fullName" : "Sign Up.TC001 Verify that user can sign up successfully",
+  "historyId" : "21a6a0e2ab917e4821c68d09232b9dfc",
+  "time" : {
+    "start" : 1650307714560,
+    "stop" : 1650307723955,
+    "duration" : 9395
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "debeca129de6ca06",
+      "name" : "Screenshot",
+      "source" : "debeca129de6ca06.png",
+      "type" : "image/png",
+      "size" : 9090
+    }, {
+      "uid" : "d163b1ea504b534c",
+      "name" : "Screenshot",
+      "source" : "d163b1ea504b534c.png",
+      "type" : "image/png",
+      "size" : 174701
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Sign Up"
+  }, {
+    "name" : "testClass",
+    "value" : "Sign Up"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC001 Verify that user can sign up successfully"
+  }, {
+    "name" : "package",
+    "value" : "Sign Up"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "17b5e710efb64317.json",
+  "parameterValues" : [ ]
+}
